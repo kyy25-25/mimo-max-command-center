@@ -6,7 +6,7 @@ MiMo Max Command Center
 
 ## GitHub repository
 
-`ADD_NEW_GITHUB_REPO_URL_HERE`
+`https://github.com/kyy25-25/mimo-max-command-center`
 
 ## Describe what you built with agents or AI-driven workflows
 
